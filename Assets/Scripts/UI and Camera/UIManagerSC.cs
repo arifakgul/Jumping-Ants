@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class UIManagerSC : MonoBehaviour
 {
+    // bitmedi skin sistemi yeniden tasarlanacak sistem unutma.
     [Header("Panels")]
     [SerializeField] private GameObject skinCardPanel;
 
