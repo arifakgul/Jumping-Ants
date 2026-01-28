@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 0dec222e9420e4c60bd334adf28b34c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4305166064178214805
+    second: Mushroom_Blue_0
+  - first:
+      213: 6821368523627519222
+    second: Mushroom_Blue_1
+  - first:
+      213: -1157459075691724165
+    second: Mushroom_Blue_2
+  - first:
+      213: 1699746581490933256
+    second: Mushroom_Blue_3
+  - first:
+      213: -3744576243817599144
+    second: Mushroom_Blue_4
+  - first:
+      213: 2701102301657992113
+    second: Mushroom_Blue_5
+  - first:
+      213: 5895266214309017292
+    second: Mushroom_Blue_6
+  - first:
+      213: -829298733470274162
+    second: Mushroom_Blue_7
+  - first:
+      213: 6107494385721392288
+    second: Mushroom_Blue_8
+  - first:
+      213: 7407305754412116135
+    second: Mushroom_Blue_9
+  - first:
+      213: 7279577295335186374
+    second: Mushroom_Blue_10
+  - first:
+      213: 6745505300694399790
+    second: Mushroom_Blue_11
+  - first:
+      213: 4586376449308285625
+    second: Mushroom_Blue_12
+  - first:
+      213: 6754038306330744393
+    second: Mushroom_Blue_13
+  - first:
+      213: -3679376188335381343
+    second: Mushroom_Blue_14
+  - first:
+      213: -4645788150289880275
+    second: Mushroom_Blue_15
+  - first:
+      213: 8783584452868579790
+    second: Mushroom_Blue_16
+  - first:
+      213: -6659658643919190305
+    second: Mushroom_Blue_17
+  - first:
+      213: 405991227348833716
+    second: Mushroom_Blue_18
+  - first:
+      213: 7541512950869028361
+    second: Mushroom_Blue_19
+  - first:
+      213: 8764656021681576224
+    second: Mushroom_Blue_20
+  - first:
+      213: -3107594791589304255
+    second: Mushroom_Blue_21
+  - first:
+      213: 4613625471534653596
+    second: Mushroom_Blue_22
+  - first:
+      213: 6182421599801355766
+    second: Mushroom_Blue_23
+  - first:
+      213: -1745385370802132445
+    second: Mushroom_Blue_24
+  - first:
+      213: -1153833153301424611
+    second: Mushroom_Blue_25
+  - first:
+      213: 3569625206988909529
+    second: Mushroom_Blue_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597b862c9b50fbb30800000000000000
+      internalID: 4305166064178214805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 839
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc59d4f78e5aae50800000000000000
+      internalID: 6821368523627519222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c7576a11efefe0800000000000000
+      internalID: -1157459075691724165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e93fd9286b69710800000000000000
+      internalID: 1699746581490933256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fa2e0feb7980cc0800000000000000
+      internalID: -3744576243817599144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 975
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb80587b3e3c7520800000000000000
+      internalID: 2701102301657992113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 800
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc63040336130d150800000000000000
+      internalID: 5895266214309017292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da2da123dbd74f0800000000000000
+      internalID: -829298733470274162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 710
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acbd90f8cd22c450800000000000000
+      internalID: 6107494385721392288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 635
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8e07a86590cc660800000000000000
+      internalID: 7407305754412116135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 580
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd3733bf0460560800000000000000
+      internalID: 7279577295335186374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 504
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b776ee459dc9d50800000000000000
+      internalID: 6745505300694399790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 387
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9badc3bb41516af30800000000000000
+      internalID: 4586376449308285625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94699302e0a2bbd50800000000000000
+      internalID: 6754038306330744393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 326
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a42d33d9da30fcc0800000000000000
+      internalID: -3679376188335381343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba040ba48d68fb0800000000000000
+      internalID: -4645788150289880275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec120efb58f85e970800000000000000
+      internalID: 8783584452868579790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 239
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd646db6fb32493a0800000000000000
+      internalID: -6659658643919190305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b55d08cede52a500800000000000000
+      internalID: 405991227348833716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e6e897216d8a860800000000000000
+      internalID: 7541512950869028361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02991dee63052a970800000000000000
+      internalID: 8764656021681576224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482775700b9fd4d0800000000000000
+      internalID: -3107594791589304255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 903
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90648d1ce3e60040800000000000000
+      internalID: 4613625471534653596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdacdb60bf5cc550800000000000000
+      internalID: 6182421599801355766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aec21b04527c7e0800000000000000
+      internalID: -1745385370802132445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16566f3cd2ccffe0800000000000000
+      internalID: -1153833153301424611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 1287
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbaadb863bd98130800000000000000
+      internalID: 3569625206988909529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushroom_Blue_0: 4305166064178214805
+      Mushroom_Blue_1: 6821368523627519222
+      Mushroom_Blue_10: 7279577295335186374
+      Mushroom_Blue_11: 6745505300694399790
+      Mushroom_Blue_12: 4586376449308285625
+      Mushroom_Blue_13: 6754038306330744393
+      Mushroom_Blue_14: -3679376188335381343
+      Mushroom_Blue_15: -4645788150289880275
+      Mushroom_Blue_16: 8783584452868579790
+      Mushroom_Blue_17: -6659658643919190305
+      Mushroom_Blue_18: 405991227348833716
+      Mushroom_Blue_19: 7541512950869028361
+      Mushroom_Blue_2: -1157459075691724165
+      Mushroom_Blue_20: 8764656021681576224
+      Mushroom_Blue_21: -3107594791589304255
+      Mushroom_Blue_22: 4613625471534653596
+      Mushroom_Blue_23: 6182421599801355766
+      Mushroom_Blue_24: -1745385370802132445
+      Mushroom_Blue_25: -1153833153301424611
+      Mushroom_Blue_26: 3569625206988909529
+      Mushroom_Blue_3: 1699746581490933256
+      Mushroom_Blue_4: -3744576243817599144
+      Mushroom_Blue_5: 2701102301657992113
+      Mushroom_Blue_6: 5895266214309017292
+      Mushroom_Blue_7: -829298733470274162
+      Mushroom_Blue_8: 6107494385721392288
+      Mushroom_Blue_9: 7407305754412116135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
